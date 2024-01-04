@@ -64,3 +64,7 @@ Make sure you have the following installed:
 2. Open the app in your web browser.
 
 3. Interact with the app.
+
+![Screenshot (52)](https://github.com/Shrejalll/alan-ai-news-app/assets/139336892/a7091c4f-33ae-4acc-8f86-be02984cf15b)
+![Screenshot (31)](https://github.com/Shrejalll/alan-ai-news-app/assets/139336892/08c9b4d3-30bc-4d8b-94d7-aa3d99d51795)
+Link:- https://github.com/Shrejalll/alan-ai-news-app.git
